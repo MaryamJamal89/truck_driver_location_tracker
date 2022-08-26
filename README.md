@@ -1,13 +1,11 @@
 # truck_driver_location_tracker
 
-## Flutter & Firebase Take Home Project Brief: Truck Driver Location
-Tracker
+## Flutter & Firebase Take Home Project Brief: Truck Driver LocationTracker
 
 Implement a simple location tracker app using Firebase Auth and Cloud Firestore.
-On first launch, the app lets users sign in with Firebase. (use anonymous sign-in for
-simplicity).
+On first launch, the app lets users sign in with Firebase. (use anonymous sign-in for simplicity).
 
-After sign in, the app shows a page where the user can:
+### After sign in, the app shows a page where the user can:
 * Enter his/her details (name, phone number) into a form and submit it.
 * Save this along with the current time into Firestore.
 * Each truck driver can start a shipment by inserting the shipment_id.
@@ -15,7 +13,7 @@ After sign in, the app shows a page where the user can:
 * View a list of all shipments, sorted by most recent date.
 * Each shipment will display the list of locations stored as a route on a map.
 * The app should update in realtime when the data changes on Firestore.
-Bonus features:
+### Bonus features:
 * Allowing location data to be sent as a background operation (Android).
 
 ## Getting Started
