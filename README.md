@@ -1,6 +1,6 @@
 # truck_driver_location_tracker
 
-## Flutter & Firebase Take Home Project Brief: Truck Driver LocationTracker
+## Flutter & Firebase Take Home Project Brief: Truck Driver Location Tracker
 
 Implement a simple location tracker app using Firebase Auth and Cloud Firestore.
 On first launch, the app lets users sign in with Firebase. (use anonymous sign-in for simplicity).
